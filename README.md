@@ -1,5 +1,5 @@
-# EKC Computing Resources
-This repository acts as a central storage for content relating to courses taught at EKC Ashford. 
+# Computing Education Resources
+This repository acts as a central storage for computing education content. 
 
 Here you will find resources relating to:
 * Gateway Level 2 Diploma in Digital and IT Skills
