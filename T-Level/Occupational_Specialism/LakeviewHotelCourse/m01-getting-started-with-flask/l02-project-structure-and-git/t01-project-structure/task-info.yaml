@@ -1,5 +1,0 @@
-type: theory
-custom_name: 1.2.1 How a Flask project is organised
-files:
-  - name: notes.md
-    visible: true

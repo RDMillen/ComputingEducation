@@ -1,5 +1,0 @@
-type: theory
-custom_name: 9.1.5 Test plan and test log
-files:
-  - name: TEST_LOG.md
-    visible: true
